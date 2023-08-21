@@ -1,0 +1,2 @@
+org.springframework.boot.SpringApplicationRunListener=com.atbilibili.ssm.listenner.MyappListener
+org.springframework.context.ApplicationListener=com.atbilibili.ssm.listenner.MyListener
